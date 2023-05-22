@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid #6f6f6f;
+}
+nav h1{
+    color: "717171;
+    font-size: 30px;
+}
+nav .onglets a{
+    text-decoration: none;
+    color: #000;
+    margin-right: 10px;
+    border-bottom: 1px solid
+}
